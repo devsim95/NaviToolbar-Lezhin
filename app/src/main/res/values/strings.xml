@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NavigationDrawer_lezhin</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="search_view_hint">작품 제목, 작가 이름</string>
+
+</resources>
