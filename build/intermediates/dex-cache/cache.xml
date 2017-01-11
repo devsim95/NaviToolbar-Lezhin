@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\DevSim\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\DevSim\Desktop\Workspace (4)\NavigationDrawer2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_03f8642d96e34e75fd725b8196a637ce622aaa79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DevSim\Desktop\Workspace (4)\NavigationDrawer2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\DevSim\Desktop\Workspace (4)\NavigationDrawer2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_dee6af458a25000818fd95341cf21e9705d65954\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DevSim\Desktop\Workspace (4)\NavigationDrawer2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04de5ca2cb4d7b81df2a918285f27f2b8f748d75">
+        <dex dex="C:\Users\DevSim\Desktop\Workspace (4)\NavigationDrawer2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ae1c83fbb04d87051abb2102da98050c5cec7ef9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DevSim\Desktop\Workspace (4)\NavigationDrawer2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\DevSim\Desktop\Workspace (4)\NavigationDrawer2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_46717058160d7b91c2fe50ec738d60e0997a6470\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DevSim\Desktop\Workspace (4)\NavigationDrawer2\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\DevSim\Desktop\Workspace (4)\NavigationDrawer2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.0_6c4c7e951432e5a2cd18f0c9d996fb0251dd7ea3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DevSim\Desktop\Workspace (4)\NavigationDrawer2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\DevSim\Desktop\Workspace (4)\NavigationDrawer2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_bde68441ae937da90a4fab7f746c8d8bb0527eb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DevSim\Desktop\Workspace (4)\NavigationDrawer2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\DevSim\Desktop\Workspace (4)\NavigationDrawer2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_f715c3c9739d7fe4e886f1f804b71291a941a1b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DevSim\Desktop\Workspace (4)\NavigationDrawer2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\DevSim\Desktop\Workspace (4)\NavigationDrawer2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_3c7261cf53c7fb806e80412565b223f2d48f14a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DevSim\Desktop\Workspace (4)\NavigationDrawer2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\DevSim\Desktop\Workspace (4)\NavigationDrawer2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_6f901e34fc2dbcfb97156ffe4ebb2a3b633e3075\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DevSim\Desktop\Workspace (4)\NavigationDrawer2\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\DevSim\Desktop\Workspace (4)\NavigationDrawer2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.0_4415f4d4a4f5e33152003566c9193eb889f98289\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DevSim\Desktop\Workspace (4)\NavigationDrawer2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="783fdd07a4b48cf70259ea58de23303e8c30559e">
+        <dex dex="C:\Users\DevSim\Desktop\Workspace (4)\NavigationDrawer2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b759db48c632a24e182faf9fe16bb94c40aa9eed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DevSim\Desktop\Workspace (4)\NavigationDrawer2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\DevSim\Desktop\Workspace (4)\NavigationDrawer2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_a53e986afb9860a43faf862c7ad5a3defd151e3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DevSim\Desktop\Workspace (4)\NavigationDrawer2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\DevSim\Desktop\Workspace (4)\NavigationDrawer2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_dac247c44813606b6226f3ab061fcabdefc42149\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DevSim\Desktop\Workspace (4)\NavigationDrawer2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\DevSim\Desktop\Workspace (4)\NavigationDrawer2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_61e64232a03413807954c1b06ec9ce5d25d721e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DevSim\Desktop\Workspace (4)\NavigationDrawer2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\DevSim\Desktop\Workspace (4)\NavigationDrawer2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_23532a76d35f9470640d350aeb59107acab09b85\classes.dex" />
+    </item>
+
+</items>
