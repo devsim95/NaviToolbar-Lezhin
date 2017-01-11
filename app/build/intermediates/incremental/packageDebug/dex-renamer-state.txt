@@ -1,7 +1,0 @@
-#Sun Jan 08 12:33:26 KST 2017
-base.0=C\:\\Users\\DevSim\\Desktop\\Workspace (4)\\NavigationDrawer2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b759db48c632a24e182faf9fe16bb94c40aa9eed
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\DevSim\\Desktop\\Workspace (4)\\NavigationDrawer2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ae1c83fbb04d87051abb2102da98050c5cec7ef9\\classes.dex
-base.1=C\:\\Users\\DevSim\\Desktop\\Workspace (4)\\NavigationDrawer2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ae1c83fbb04d87051abb2102da98050c5cec7ef9
-file.0=C\:\\Users\\DevSim\\Desktop\\Workspace (4)\\NavigationDrawer2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b759db48c632a24e182faf9fe16bb94c40aa9eed\\classes.dex
